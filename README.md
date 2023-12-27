@@ -8,9 +8,10 @@ This Python program, `shipping.py`, calculates and compares shipping costs for d
 ## Usage
 
 1. **Clone the Repository:**
+   '''bash
    git clone https://github.com/your-username/your-repository.git
 
-2. **Navigate to the Project:**
+3. **Navigate to the Project:**
 cd your-repository
 Run the Program:
 
