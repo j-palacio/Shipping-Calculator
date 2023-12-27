@@ -1,7 +1,5 @@
 Great! If you'd like to create a README for this Python program, here's an example based on your provided solution:
 
-markdown
-Copy code
 # Sal's Shipping
 ## J Palacio
 
@@ -10,11 +8,10 @@ This Python program, `shipping.py`, calculates and compares shipping costs for d
 ## Usage
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone  https://github.com/j-palacio/Shipping-Calculator.git
 Navigate to the Project:
 
-bash
+2. bash
 Copy code
 cd your-repository
 Run the Program:
