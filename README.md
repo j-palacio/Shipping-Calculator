@@ -16,7 +16,7 @@ This Python program, `shipping.py`, calculates and compares shipping costs for d
     cd your-repository
 
 3. **Run the Program:**
- ```bash
+     ```bash
     Copy code
     python shipping.py
 
@@ -47,9 +47,10 @@ Flat Charge: $0.00
 Example
 Suppose your package weighs 20 lb. Running the program would provide the following output:
 
-bash
+ ```bash
 Copy code
 Ground Shipping: $ 95.0
 Ground Shipping Premium: $ 125.0
 Drone Shipping: $ 285.0
+
 Feel free to explore the program with different package weights and discover the most cost-effective shipping option with Sal's Shippers!
