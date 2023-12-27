@@ -13,12 +13,13 @@ This Python program, `shipping.py`, calculates and compares shipping costs for d
 
 2. **Navigate to the Project:**
     ```bash
-cd your-repository
+    cd your-repository
 
 3. **Run the Program:**
  ```bash
-Copy code
-python shipping.py
+    Copy code
+    python shipping.py
+
 Review Shipping Costs:
 The program will display the shipping costs for Ground Shipping, Ground Shipping Premium, and Drone Shipping based on the weight of the package.
 
