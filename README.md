@@ -17,7 +17,6 @@ This Python program, `shipping.py`, calculates and compares shipping costs for d
 
 3. **Run the Program:**
      ```bash
-    Copy code
     python shipping.py
 
 Review Shipping Costs:
@@ -48,7 +47,7 @@ Example
 Suppose your package weighs 20 lb. Running the program would provide the following output:
 
  ```bash
-Copy code
+
 Ground Shipping: $ 95.0
 Ground Shipping Premium: $ 125.0
 Drone Shipping: $ 285.0
